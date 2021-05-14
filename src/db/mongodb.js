@@ -1,4 +1,4 @@
-// CRUD creae read update delete
+// CRUD create read update delete
 const mongodb =  require('mongodb')
 const { default: validator } = require('validator')
 //const { string } = require('yargs')
